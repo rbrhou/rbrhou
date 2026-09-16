@@ -18,15 +18,12 @@
 
 ### About me
 
-I'm a fourth-year undergraduate in **Mathematics and Actuarial Science** at the University of Toronto, working where rigorous probability meets real markets. Most of my time goes to stochastic analysis and quantitative finance, and the rest to building things for the web.
+I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science** at the University of Toronto, working where rigorous mathematics meets real markets. Most of my time goes to stochastic analysis and quantitative finance, and the rest to building things for the web.
 
 - Graduating **Summer 2028**, then heading toward a research-oriented Master's
 - **Web Development & Data Analytics Intern**, building and maintaining websites and analytics pipelines
 - Reading about **SPDEs, the KPZ equation, rough paths and regularity structures**
 - Building **statistical arbitrage** and **random matrix theory** tools
-
-> $$\partial_t h = \partial_x^2 h + (\partial_x h)^2 + \xi$$
-> <sub>The KPZ equation, my favourite example of why "ill-posed" is just the beginning.</sub>
 
 ---
 
@@ -57,7 +54,7 @@ Model-free bounds on option prices via martingale optimal transport, using only 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
-**Mathematical interests:** stochastic calculus · SPDEs · optimal transport · measure theory · topology · Hamiltonian mechanics
+**Mathematical interests:** PDEs, SPDEs, Gradient Flows, Optimal Transport (e.g. MOT and JKO scheme), Stochastic Optimal Control, Machine Learning, Dimensionality Reduction Methods, KPZ
 
 ---
 
