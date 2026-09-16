@@ -14,7 +14,6 @@ I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science
 
 **Hobbies**: Outside of academic topics, I enjoy spending time on reading, writing, and films. (Some of my favorite writers right now are Kazuo Ishiguro, Hemingway, Steinbeck, and Haruki Murakami)
 
----
 
 ### Featured projects
 
@@ -26,23 +25,3 @@ Cleaning noisy empirical correlation matrices with random matrix theory, followi
 
 #### Martingale Optimal Transport for Asset Pricing*(_in progress_)*
 Model-free bounds on option prices via martingale optimal transport, using only the marginal distributions implied by market prices.
-
----
-
-### Toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-</p>
-
-**Mathematical interests:** PDEs, SPDEs, Gradient Flows, Optimal Transport (e.g. MOT and JKO scheme), Stochastic Optimal Control, Machine Learning, Dimensionality Reduction Methods, Statistical Mechanics, Chaos Theory, KPZ
-
----
