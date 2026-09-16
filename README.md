@@ -51,12 +51,3 @@ Model-free bounds on option prices via martingale optimal transport, using only 
 **Mathematical interests:** PDEs, SPDEs, Gradient Flows, Optimal Transport (e.g. MOT and JKO scheme), Stochastic Optimal Control, Machine Learning, Dimensionality Reduction Methods, KPZ
 
 ---
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rbrhou&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrhou&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
-
-<p align="center"><i>"Probability is the mathematics of what we can't control."</i></p>
