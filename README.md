@@ -23,5 +23,5 @@ A modernized take on the Avellaneda & Lee (2010) PCA stat-arb framework, rebuilt
 #### Random Matrix Theory for Covariance Cleaning *(_in progress_)*
 Cleaning noisy empirical correlation matrices with random matrix theory, following the Bun, Bouchaud & Potters (2016) review, to build more robust covariance estimates for portfolio construction.
 
-#### Martingale Optimal Transport for Asset Pricing*(_in progress_)*
+#### Martingale Optimal Transport for Asset Pricing *(_in progress_)*
 Model-free bounds on option prices via martingale optimal transport, using only the marginal distributions implied by market prices.
