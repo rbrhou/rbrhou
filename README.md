@@ -1,17 +1,11 @@
 <!-- GitHub profile README — place in a public repo named exactly "rbrhou" -->
 
-<h1 align="center">Hi, I'm Ryan</h1>
+<h1 align="center">Hi, I'm Ryan Hou</h1>
 
 <p align="center">
-  <a href="https://github.com/rbrhou">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=620&lines=Mathematics+%2B+Actuarial+Science;Quantitative+Research+%C2%B7+Stochastic+Analysis;Web+Development+%26+Data+Analytics" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/rbrhou"><img src="https://img.shields.io/github/followers/rbrhou?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN](https://www.linkedin.com/in/boruihou/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ryan.hou@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/rbrhou"><img src="https://img.shields.io/github/followers/rbrhou?label=Follow&style=social" ></a>
 </p>
 
 ---
