@@ -15,8 +15,8 @@
 I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science** at the University of Toronto, working where rigorous mathematics meets real markets. Most of my time goes to stochastic analysis and quantitative finance, and the rest to building things for the web.
 
 - Graduating **Summer 2028**, then heading toward a research-oriented Master's
-- **Web Development & Data Analytics Intern**, building and maintaining websites and analytics pipelines
-- Reading about **SPDEs, the KPZ equation, rough paths and regularity structures**
+- **Quantitative Analysis & Data Science Intern**, building and maintaining websites and analytics pipelines
+- Reading about **SPDEs, Optimal Transport, Gradient Flows, Random Matrix Theory, and a little bit of KPZ**
 - Building **statistical arbitrage** and **random matrix theory** tools
 
 ---
