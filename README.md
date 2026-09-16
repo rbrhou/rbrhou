@@ -1,0 +1,71 @@
+<!-- GitHub profile README — place in a public repo named exactly "rbrhou" -->
+
+<h1 align="center">Hi, I'm Ryan</h1>
+
+<p align="center">
+  <a href="https://github.com/rbrhou">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=620&lines=Mathematics+%2B+Actuarial+Science;Quantitative+Research+%C2%B7+Stochastic+Analysis;Web+Development+%26+Data+Analytics" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/rbrhou"><img src="https://img.shields.io/github/followers/rbrhou?label=Follow&style=social" alt="GitHub followers"></a>
+</p>
+
+---
+
+### About me
+
+I'm a fourth-year undergraduate in **Mathematics and Actuarial Science** at the University of Toronto, working where rigorous probability meets real markets. Most of my time goes to stochastic analysis and quantitative finance, and the rest to building things for the web.
+
+- Graduating **Summer 2028**, then heading toward a research-oriented Master's
+- **Web Development & Data Analytics Intern**, building and maintaining websites and analytics pipelines
+- Reading about **SPDEs, the KPZ equation, rough paths and regularity structures**
+- Building **statistical arbitrage** and **random matrix theory** tools
+
+> $$\partial_t h = \partial_x^2 h + (\partial_x h)^2 + \xi$$
+> <sub>The KPZ equation, my favourite example of why "ill-posed" is just the beginning.</sub>
+
+---
+
+### Featured projects
+
+#### [Machine-Learning-Enhanced Statistical Arbitrage](https://github.com/rbrhou/Machine-Learning-Enhanced-Statistical-Arbitrage)
+A modernized take on the Avellaneda & Lee (2010) PCA stat-arb framework, rebuilt with machine learning at each stage.
+
+#### Random Matrix Theory Covariance Cleaning *(in progress)*
+Cleaning noisy empirical correlation matrices with random matrix theory, following the Bun, Bouchaud & Potters (2016) review, to build more robust covariance estimates for portfolio construction.
+
+#### Martingale Optimal Transport *(in progress)*
+Model-free bounds on option prices via martingale optimal transport, using only the marginal distributions implied by market prices.
+
+---
+
+### Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+</p>
+
+**Mathematical interests:** stochastic calculus · SPDEs · optimal transport · measure theory · topology · Hamiltonian mechanics
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rbrhou&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrhou&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+</p>
+
+<p align="center"><i>"Probability is the mathematics of what we can't control."</i></p>
