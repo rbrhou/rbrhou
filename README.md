@@ -2,12 +2,6 @@
 
 <h1 align>Hi! I'm Ryan Hou</h1>
 
-<p align>
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN](https://www.linkedin.com/in/boruihou/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ryan.hou@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/rbrhou"><img src="https://img.shields.io/github/followers/rbrhou?label=Follow&style=social" ></a>
-</p>
-
 ---
 
 ### About me
