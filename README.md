@@ -10,7 +10,7 @@ I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science
 - **Quantitative Analysis & Data Science Intern**, building and maintaining model and analytics pipelines
 - Reading about **SPDEs, Optimal Transport, Gradient Flows, Random Matrix Theory, and a little bit of KPZ**
 - Building **optimal transport** and **random matrix theory** tools for financial applications
-- Working towards AI/ML Engineering, specifically on deep learning frameworks and reinforcement learning
+- Working towards **AI/ML** Engineering, specifically on deep learning frameworks and reinforcement learning
 
 **Hobbies**: Outside of academic topics, I enjoy spending time on reading, writing, and films. (Some of my favorite writers right now are Kazuo Ishiguro, Hemingway, Steinbeck, and Haruki Murakami)
 
