@@ -8,11 +8,11 @@ I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science
 
 - Graduating **Summer 2028**, then heading toward a research-oriented Master's program
 - **Quantitative Analysis & Data Science Intern**, building and maintaining model and analytics pipelines
-- Reading about **SPDEs, Optimal Transport, Gradient Flows, Random Matrix Theory, and a little bit of KPZ**
+- Reading about **SPDEs, Optimal Transport, Gradient Flows, Random Matrix Theory, Statistical Mechanics, and a little bit of KPZ**
 - Building **optimal transport** and **random matrix theory** tools for financial applications
-- Working towards **AI/ML** Engineering, specifically on deep learning frameworks and reinforcement learning
+- Working towards **AI/ML Engineering**, specifically on deep learning frameworks and reinforcement learning
 
-**Hobbies**: Outside of academic topics, I enjoy spending time on reading, writing, and films. (Some of my favorite writers right now are Kazuo Ishiguro, Hemingway, Steinbeck, and Haruki Murakami)
+**Hobbies**: Outside of academic topics, I enjoy spending time on reading, writing, and films. (Some of my favourite books right now are Never Let Me Go, East of Eden, Hear the Wind Sing, White Noise)
 
 
 ### Featured projects
@@ -21,7 +21,7 @@ I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science
 A modernized take on the Avellaneda & Lee (2010) PCA stat-arb framework, rebuilt with machine learning at each stage.
 
 #### Random Matrix Theory for Covariance Cleaning *(_in progress_)*
-Cleaning noisy empirical correlation matrices with random matrix theory, following the Bun, Bouchaud & Potters (2016) review, to build more robust covariance estimates for portfolio construction.
+Cleaning noisy empirical correlation matrices with tools motivated from random matrix theory, following the texts of Bun, Bouchaud & Potters (2016), Ledoit, O., & Wolf, M. (2020), to build more robust covariance estimates for portfolio construction. 
 
 #### Martingale Optimal Transport for Asset Pricing *(_in progress_)*
 Model-free bounds on option prices via martingale optimal transport, using only the marginal distributions implied by market prices.
