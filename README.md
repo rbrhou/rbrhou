@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science** at the University of Toronto, working where rigorous mathematics meets real markets. Currently, most of my time goes to researching and building mathematical tools for stochastic analysis and quantitative finance, and the rest to building things for the web. It is exceptionally thrilling to me seeing the beautiful connections between abstract mathematics and the real worlds as we know it.
+I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science** at the University of Toronto, working where rigorous mathematics meets real markets. Currently, most of my time goes to researching and building mathematical tools for stochastic analysis and quantitative finance, and the rest to building things for the AI and simulations. It is exceptionally thrilling to me seeing the beautiful connections between abstract mathematics and the real worlds as we know it.
 
 - Graduating **Summer 2028**, then heading toward a research-oriented Master's program
 - **Quantitative Analysis & Data Science Intern**, building and maintaining model and analytics pipelines
