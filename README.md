@@ -12,7 +12,7 @@ I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science
 - Building **optimal transport** and **random matrix theory** tools for financial applications
 - Working towards **AI/ML Engineering**, specifically on deep learning frameworks and reinforcement learning
 
-**Hobbies**: Outside of academic topics, I enjoy spending time on reading, writing, and films. (Some of my favourite books right now are Never Let Me Go, East of Eden, Hear the Wind Sing, White Noise)
+**Hobbies**: Outside of academic topics, I enjoy spending time on reading, writing, and films. (My favourite book right now is Never Let Me Go by Kazuo Ishiguro)
 
 
 ### Featured projects
