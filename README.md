@@ -4,18 +4,18 @@
 
 ### About me
 
-I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science** at the University of Toronto, working where rigorous mathematics meets real markets. Currently, most of my time goes to researching and building mathematical tools for stochastic analysis and quantitative finance, and the rest to building things for the AI and simulations. It is exceptionally thrilling to me seeing the beautiful connections between abstract mathematics and the real worlds as we know it.
+I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science** at the University of Toronto, working where rigorous mathematics meets real markets. Currently, most of my time goes to researching and building mathematical tools for stochastic analysis and quantitative finance, and the rest to building things for the AI and simulations. It is exceptionally thrilling to me seeing the beautiful connections between fields of abstract mathematics and the real worlds as we know it.
 
 - Graduating **June 2028**, then heading toward a research-oriented graduate program
 - **Quantitative Analysis & Data Science**, building and maintaining model and analytics pipelines
 - Reading about **SPDEs, Optimal Transport, Gradient Flows, Random Matrix Theory, Statistical Mechanics, and a little bit of KPZ**
 - Building **optimal transport** and **random matrix theory** tools for financial applications
-- Working towards **AI/ML Engineering**, specifically on deep learning frameworks and reinforcement learning
+- Working towards **AI/ML Engineering**, specifically on JEPA framework and reinforcement learning connecting **stochastic control**
 
 **Hobbies**: Outside of academic topics, I enjoy spending time on reading, writing, and films. (My favourite book right now is Never Let Me Go by Kazuo Ishiguro)
 
 
-### Featured projects
+### Some of My Works
 
 #### [Machine-Learning-Enhanced Statistical Arbitrage](https://github.com/rbrhou/Machine-Learning-Enhanced-Statistical-Arbitrage)
 A modernized take on the Avellaneda & Lee (2010) PCA stat-arb framework, rebuilt with machine learning at each stage.
