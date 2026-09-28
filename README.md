@@ -8,7 +8,7 @@ I'm a fourth-year undergraduate in **Mathematics, Physics, and Actuarial Science
 
 - Graduating **June 2028**, then heading toward a research-oriented graduate program
 - **Quantitative Analysis & Data Science**, building and maintaining model and analytics pipelines
-- Reading about **Optimal Transport, Stochastic Controls, Random Matrix Theory, Statistical Mechanics, and a little bit of KPZ**
+- Reading about **Optimal Transport, Stochastic Control, Random Matrix Theory, Statistical Mechanics, a little bit of KPZ**
 - Building **optimal transport** and **random matrix theory** tools for financial applications
 - Working towards **AI/ML Engineering**, specifically on JEPA architecture and Model-Based RL
 
